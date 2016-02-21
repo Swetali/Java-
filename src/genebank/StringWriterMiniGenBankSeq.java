@@ -1,3 +1,15 @@
+/*
+ * Author: Swetali Patel
+ * Course: BIF812
+ * Instructor: Marek Laskowski
+ * Declaration: I declare that the attached assignment is wholly my own work
+ * in accordance with Seneca Academic Policy.  No part of this
+ * assignment has been copied manually or electronically from any
+ * other source (including web sites) or distributed to other students. 
+ * Swetali Patel 072650146 
+ */
+
+
 package genebank;
 import java.io.StringWriter;
 

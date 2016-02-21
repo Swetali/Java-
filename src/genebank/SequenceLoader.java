@@ -8,7 +8,7 @@ import javax.swing.JFileChooser;
 
 /**
  * This class loads sequence data from a file.
- * @author 
+ * @author Marek 
  *
  */
 
