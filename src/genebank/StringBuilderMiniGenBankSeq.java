@@ -9,8 +9,6 @@
  * Swetali Patel 072650146 
  */
 
-
-
 package genebank;
 
 public class StringBuilderMiniGenBankSeq extends MiniGenBankSeq {
